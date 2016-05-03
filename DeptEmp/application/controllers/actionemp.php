@@ -1,4 +1,6 @@
 <?php
+// This is actionemp controller class.
+
 class actionemp extends CI_Controller
 {
 	public function __construct()
